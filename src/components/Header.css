@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 40px;
+  margin-bottom: 20px;
+}
+
+.header__titleApp {
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(235, 49, 49);
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  height: 50px !important;
+  border-radius: 0 !important;
+  background-color: white !important;
+}
